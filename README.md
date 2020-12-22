@@ -1,8 +1,7 @@
 # About_me
 
 # Chester Hsu
-![image](https://github.com/Chester-Hsu/Chester-Hsu.github.io/blob/main/image/S__63627269.jpg "width="375"")
-<img src="https://github.com/Chester-Hsu/Chester-Hsu.github.io/blob/main/image/S__63627269.jpg" width="50%" height="50%">
+<img src="https://github.com/Chester-Hsu/Chester-Hsu.github.io/blob/main/image/S__63627269.jpg" width="25%" height="25%">
 
 * Education : 國立臺北大學 - 資訊管理研究所
 * Personal Website : https://github.com/Chester-Hsu
