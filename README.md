@@ -1,7 +1,7 @@
 # About_me
 
 # 許程閔 （Chester Hsu）
-![image](https://github.com/Chester-Hsu/Chester-Hsu.github.io/blob/main/image/S__63627269.jpg)
+![image](https://github.com/Chester-Hsu/Chester-Hsu.github.io/blob/main/image/S__63627269.jpg width="375")
 
 * Education : 國立臺北大學 - 資訊管理研究所
 * Personal Website : https://github.com/lunawine/
