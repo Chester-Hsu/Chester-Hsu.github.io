@@ -7,15 +7,6 @@
 * Personal Website : https://github.com/Chester-Hsu
 * location : Taiwan
 * E-Mail : chestermarten@gmail.com
-* Mobile : 0975962022
-
-## 工作經驗
-
-#### 陽光資訊有限公司（Syscom）
 
 
-#### 湊火股份有限公司（Joinvest）
-
-#### 
-## 作品
 
